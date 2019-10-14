@@ -6,7 +6,7 @@ Dalam menggunakan Version controll, anda akan selalu melakukan Commit pada Git, 
 
 Selanjutnya masukkan informasi tentang anda. jika sudah di isi, selanjutnya click “Create Repository.”
 
-gambar 2
+![gambar 2](https://github.com/arial17/Latihan-VCS/blob/master/Gambar/2.png)
 
 Selamat! Sampai pada tahap ini, anda sudah memiliki Repo
 Installasi Git pada komputer anda

@@ -2,7 +2,7 @@ Langkah pertama Membuat repository baru di GitHub
 
 Dalam menggunakan Version controll, anda akan selalu melakukan Commit pada Git, tempat tersebut dinamakan sebuah repository (a.k.a. “repo”). Dan untuk menyimpan project yang anda buat pada GitHub, anda perlu memiliki GitHub Repository. Berikut ini adalah cara untuk membuat repository pada GitHub.
 
-gambar 1
+![gambar 1](https://github.com/arial17/Latihan-VCS/blob/master/Gambar/1.png)
 
 Selanjutnya masukkan informasi tentang anda. jika sudah di isi, selanjutnya click “Create Repository.”
 
